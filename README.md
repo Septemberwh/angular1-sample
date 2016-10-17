@@ -1,2 +1,2 @@
-# angular2-sample
-This is an example of a angular2
+# angular1-sample
+This is an example of a angular1
