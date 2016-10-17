@@ -8,4 +8,6 @@ bower install
 ```
 
 # Run
+```shell
 node node_modules/http-server/bin/http-server
+```
