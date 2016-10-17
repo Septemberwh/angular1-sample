@@ -1,0 +1,31 @@
+*{margin: 0;padding: 0;}
+
+body{
+     width: 700px;
+    margin: 0;padding: 0;
+     margin: 0 auto;
+}
+
+h1{color: green;}
+
+.top{
+   
+}
+.top h1{
+    text-align: center;
+}
+
+.wrap p{
+    text-align: center;
+}
+
+.wrap{
+     
+}
+
+.footer{
+    text-align: center;
+    padding-top: 10px;
+
+
+}
