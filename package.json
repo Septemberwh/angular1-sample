@@ -4,13 +4,17 @@
   "description": "This is test",
   "main": "app.js",
   "scripts": {
-     "bower": "node node_modules/bower/bin/bower"
+    "bower": "node node_modules/bower/bin/bower",
+    "http-server": "node node_modules/http-server/bin/http-server -o"
   },
   "author": "wang hao",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
     "bower": "^1.7.2",
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "http-server": "^0.9.0",
     "requirejs": "^2.1.22"
   }
 }

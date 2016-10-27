@@ -7,7 +7,12 @@ npm install
 bower install
 ```
 
+# development tool
+```shell
+gulp watch
+```
+
 # Run
 ```shell
-node node_modules/http-server/bin/http-server
+npm run http-server
 ```
