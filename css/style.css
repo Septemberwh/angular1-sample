@@ -6,36 +6,46 @@
 body {
     width: 700px;
     margin: 0 auto;
+    background-image: url('p.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right top;
+    font-family:"Times New Roman", Times, serif
+    
 }
 
-.top{
+.top {
     text-align: center;
+    background-color: snow;
 }
 
-#wrap{
+.top h1{
+    text-shadow: 2px 2px #666666;
+}
+
+#wrap {
     width: 700px;
 }
 
-#left{
-     text-align: center;
-   float: left;
+#left {
+    text-align: center;
+    float: left;
     width: 200px;
     background: lightcoral;
 }
 
-#right{
+#right {
     float: right;
     text-align: center;
     width: 200px;
     background: lightgreen;
 }
 
-#middle{
+#middle {
     text-align: center;
     margin-left: 200px;
     background: lightblue
 }
-
 
 .footer {
     text-align: center;
